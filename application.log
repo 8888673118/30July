@@ -1,0 +1,11 @@
+2023-01-04 18:54:22,016  INFO [TestNG-test=ChromeTest-2] SauceDemoProject30JulyBatch:40 - browser is opened
+2023-01-04 18:54:22,018  INFO [TestNG-test=ChromeTest-1] SauceDemoProject30JulyBatch:40 - browser is opened
+2023-01-04 18:54:34,209  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:40 - browser is opened
+2023-01-04 18:54:34,240  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:43 - browser is maximized
+2023-01-04 18:54:35,851  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:48 - url is opened
+2023-01-04 18:54:36,487  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:55 - usernaeme is entered
+2023-01-04 18:54:36,764  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:58 - password eneterd
+2023-01-04 18:54:37,378  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:61 - clicked on login button
+2023-01-04 18:54:37,379  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:64 - Went on HomePage
+2023-01-04 18:54:40,345  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:77 - browser is closed
+2023-01-04 18:54:40,345  INFO [TestNG-test=firefoxTest-1] SauceDemoProject30JulyBatch:79 - End of Program

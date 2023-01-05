@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="ChromeTest(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="com.SauceDemo.TestPackage.TC03_Verify_Bag_Product_Test_Case">
+        <methods>
+          <include name="Verify_Bag_Product_Test_Case1"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestPackage.TC03_Verify_Bag_Product_Test_Case -->
+      <class name="com.SauceDemo.TestPackage.TC01_TestClass_Verify_Login_Functionality">
+        <methods>
+          <include name="setUp"/>
+          <include name="TestClass_Verify_Login_Functionality"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestPackage.TC01_TestClass_Verify_Login_Functionality -->
+      <class name="com.SauceDemo.TestPackage.TC02_Verify_Log_out_Test_Class">
+        <methods>
+          <include name="setUp"/>
+          <include name="Verify_Log_out_Test_Class"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestPackage.TC02_Verify_Log_out_Test_Class -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
